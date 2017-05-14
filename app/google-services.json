@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "751583295273",
+    "firebase_url": "https://houshuaidemo.firebaseio.com",
+    "project_id": "houshuaidemo",
+    "storage_bucket": "houshuaidemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751583295273:android:f6f639053cc1f2de",
+        "android_client_info": {
+          "package_name": "com.houshuai.text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751583295273-e71fhhnccka10r9eqoffk6416os3nosn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuymye_u9JZv6hlcnGfzCD_3uJKUQszYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
